@@ -4,6 +4,7 @@
 
 Documentation : [https://www.hockeycomputindo.com/2022/12/full-stack-remix-shop-source-code-free.html](https://www.hockeycomputindo.com/2022/12/full-stack-remix-shop-source-code-free.html)
 
+Video [https://www.youtube.com/watch?v=wzZrioks-2A](https://www.youtube.com/watch?v=wzZrioks-2A)
 
 ---------------------------
 
@@ -36,9 +37,7 @@ Backend Create Product
 
 Documentation : [https://www.hockeycomputindo.com/2022/12/full-stack-remix-shop-source-code-free.html](https://www.hockeycomputindo.com/2022/12/full-stack-remix-shop-source-code-free.html)
 
-#### Backend
-- user : admin@admin.com
-- password : 12345678
-
 
 Documentation : [https://www.hockeycomputindo.com/2022/12/full-stack-remix-shop-source-code-free.html](https://www.hockeycomputindo.com/2022/12/full-stack-remix-shop-source-code-free.html)
+
+Video [https://www.youtube.com/watch?v=wzZrioks-2A](https://www.youtube.com/watch?v=wzZrioks-2A)
