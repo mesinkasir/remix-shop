@@ -2,6 +2,8 @@
 
 ### Test Drive : [Run demo →](https://websitedeveloper.pages.dev/)
 
+Demo with login page: [https://gremixs.vercel.app/](https://gremixs.vercel.app/)
+
 Documentation : [https://www.hockeycomputindo.com/2022/12/full-stack-remix-shop-source-code-free.html](https://www.hockeycomputindo.com/2022/12/full-stack-remix-shop-source-code-free.html)
 
 Video [https://www.youtube.com/watch?v=wzZrioks-2A](https://www.youtube.com/watch?v=wzZrioks-2A)
@@ -35,8 +37,7 @@ Backend Create Product
 
 ### Test Drive : [Run demo →](https://websitedeveloper.pages.dev/)
 
-Documentation : [https://www.hockeycomputindo.com/2022/12/full-stack-remix-shop-source-code-free.html](https://www.hockeycomputindo.com/2022/12/full-stack-remix-shop-source-code-free.html)
-
+Demo with login page: [https://gremixs.vercel.app/](https://gremixs.vercel.app/)
 
 Documentation : [https://www.hockeycomputindo.com/2022/12/full-stack-remix-shop-source-code-free.html](https://www.hockeycomputindo.com/2022/12/full-stack-remix-shop-source-code-free.html)
 
