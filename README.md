@@ -2,7 +2,7 @@
 
 ### Test Drive : [Run demo →](https://websitedeveloper.pages.dev/)
 
-Demo with login page: [https://gremixs.vercel.app/](https://gremixs.vercel.app/)
+Demo with login page + payment gateway: [https://gremixs.vercel.app/](https://gremixs.vercel.app/)
 
 Documentation : [https://www.hockeycomputindo.com/2022/12/full-stack-remix-shop-source-code-free.html](https://www.hockeycomputindo.com/2022/12/full-stack-remix-shop-source-code-free.html)
 
@@ -37,7 +37,7 @@ Backend Create Product
 
 ### Test Drive : [Run demo →](https://websitedeveloper.pages.dev/)
 
-Demo with login page: [https://gremixs.vercel.app/](https://gremixs.vercel.app/)
+Demo with login page + payment gateway : [https://gremixs.vercel.app/](https://gremixs.vercel.app/)
 
 Documentation : [https://www.hockeycomputindo.com/2022/12/full-stack-remix-shop-source-code-free.html](https://www.hockeycomputindo.com/2022/12/full-stack-remix-shop-source-code-free.html)
 
